@@ -1,3 +1,3 @@
 # biblioteca-api
-Api desenvolvida em .Net. 
+Api .Net. 
 Projeto concluido ao longo do curso de Formação de Programadores oferecido pela empresa JN Moura.
